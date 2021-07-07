@@ -1,0 +1,16 @@
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\bin\Debug\net5.0\ExercicioAula2.exe
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\bin\Debug\net5.0\ExercicioAula2.deps.json
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\bin\Debug\net5.0\ExercicioAula2.runtimeconfig.json
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\bin\Debug\net5.0\ExercicioAula2.runtimeconfig.dev.json
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\bin\Debug\net5.0\ExercicioAula2.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\bin\Debug\net5.0\ref\ExercicioAula2.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\bin\Debug\net5.0\ExercicioAula2.pdb
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\obj\Debug\net5.0\ExercicioAula2.csprojAssemblyReference.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\obj\Debug\net5.0\ExercicioAula2.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\obj\Debug\net5.0\ExercicioAula2.AssemblyInfoInputs.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\obj\Debug\net5.0\ExercicioAula2.AssemblyInfo.cs
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\obj\Debug\net5.0\ExercicioAula2.csproj.CoreCompileInputs.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\obj\Debug\net5.0\ExercicioAula2.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\obj\Debug\net5.0\ref\ExercicioAula2.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\obj\Debug\net5.0\ExercicioAula2.pdb
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioAula2\obj\Debug\net5.0\ExercicioAula2.genruntimeconfig.cache
