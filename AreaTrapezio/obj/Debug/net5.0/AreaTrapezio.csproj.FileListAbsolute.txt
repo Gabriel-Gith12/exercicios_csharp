@@ -1,0 +1,16 @@
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.csprojAssemblyReference.cache
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.AssemblyInfoInputs.cache
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.AssemblyInfo.cs
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.csproj.CoreCompileInputs.cache
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\bin\Debug\net5.0\AreaTrapezio.exe
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\bin\Debug\net5.0\AreaTrapezio.deps.json
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\bin\Debug\net5.0\AreaTrapezio.runtimeconfig.json
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\bin\Debug\net5.0\AreaTrapezio.runtimeconfig.dev.json
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\bin\Debug\net5.0\AreaTrapezio.dll
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\bin\Debug\net5.0\ref\AreaTrapezio.dll
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\bin\Debug\net5.0\AreaTrapezio.pdb
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.dll
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\obj\Debug\net5.0\ref\AreaTrapezio.dll
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.pdb
+D:\User\Área de Trabalho\Aula do Rafael\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.genruntimeconfig.cache
