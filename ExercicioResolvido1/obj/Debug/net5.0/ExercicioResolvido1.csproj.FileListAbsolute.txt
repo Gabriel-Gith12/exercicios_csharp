@@ -1,0 +1,16 @@
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.csprojAssemblyReference.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.AssemblyInfoInputs.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.AssemblyInfo.cs
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.csproj.CoreCompileInputs.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\bin\Debug\net5.0\ExercicioResolvido1.exe
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\bin\Debug\net5.0\ExercicioResolvido1.deps.json
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\bin\Debug\net5.0\ExercicioResolvido1.runtimeconfig.json
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\bin\Debug\net5.0\ExercicioResolvido1.runtimeconfig.dev.json
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\bin\Debug\net5.0\ExercicioResolvido1.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\bin\Debug\net5.0\ref\ExercicioResolvido1.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\bin\Debug\net5.0\ExercicioResolvido1.pdb
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\obj\Debug\net5.0\ref\ExercicioResolvido1.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.pdb
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.genruntimeconfig.cache
