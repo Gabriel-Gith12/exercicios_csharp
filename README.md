@@ -1,2 +1,2 @@
-# exerciciso_csharp
+# exercícios_csharp
 c#
