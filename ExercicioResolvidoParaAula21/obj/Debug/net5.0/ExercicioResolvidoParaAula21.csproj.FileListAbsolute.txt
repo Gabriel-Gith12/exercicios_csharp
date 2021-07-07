@@ -1,0 +1,16 @@
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.csprojAssemblyReference.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.AssemblyInfoInputs.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.AssemblyInfo.cs
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.csproj.CoreCompileInputs.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.exe
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.deps.json
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.runtimeconfig.json
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.runtimeconfig.dev.json
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ref\ExercicioResolvidoParaAula21.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.pdb
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ref\ExercicioResolvidoParaAula21.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.pdb
+D:\User\Documents\Tec.informática\Aula do Rafael\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.genruntimeconfig.cache
