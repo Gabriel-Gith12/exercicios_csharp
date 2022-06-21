@@ -1,0 +1,10 @@
+C:\Users\Aluno\Documents\Aula Rafael\ReviewSemaforo\ReviewSemaforo\bin\Debug\ReviewSemaforo.exe.config
+C:\Users\Aluno\Documents\Aula Rafael\ReviewSemaforo\ReviewSemaforo\bin\Debug\ReviewSemaforo.exe
+C:\Users\Aluno\Documents\Aula Rafael\ReviewSemaforo\ReviewSemaforo\bin\Debug\ReviewSemaforo.pdb
+C:\Users\Aluno\Documents\Aula Rafael\ReviewSemaforo\ReviewSemaforo\obj\Debug\ReviewSemaforo.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Aula Rafael\ReviewSemaforo\ReviewSemaforo\obj\Debug\ReviewSemaforo.FrmSemaforo.resources
+C:\Users\Aluno\Documents\Aula Rafael\ReviewSemaforo\ReviewSemaforo\obj\Debug\ReviewSemaforo.Properties.Resources.resources
+C:\Users\Aluno\Documents\Aula Rafael\ReviewSemaforo\ReviewSemaforo\obj\Debug\ReviewSemaforo.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Aula Rafael\ReviewSemaforo\ReviewSemaforo\obj\Debug\ReviewSemaforo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Aula Rafael\ReviewSemaforo\ReviewSemaforo\obj\Debug\ReviewSemaforo.exe
+C:\Users\Aluno\Documents\Aula Rafael\ReviewSemaforo\ReviewSemaforo\obj\Debug\ReviewSemaforo.pdb
