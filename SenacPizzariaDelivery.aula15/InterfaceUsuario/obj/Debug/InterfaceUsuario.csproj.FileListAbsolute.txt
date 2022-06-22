@@ -1,0 +1,236 @@
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\InterfaceUsuario.exe.config
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\InterfaceUsuario.exe
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\InterfaceUsuario.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.AssemblyReference.cache
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\obj\Debug\InterfaceUsuario.Properties.Resources.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.GenerateResource.cache
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.CoreCompileInputs.cache
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\obj\Debug\InterfaceUsuario.exe
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\obj\Debug\InterfaceUsuario.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\Entidades.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\Negocio.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\Entidades.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\Negocio.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\obj\Debug\InterfaceUsuario.MDIFrm.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.CopyComplete
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\obj\Debug\InterfaceUsuario.Login.FrmLogin.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\BaseDeDados.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\MySql.Data.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\Google.Protobuf.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\Zstandard.Net.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\Ubiety.Dns.Core.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\System.Memory.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\System.Buffers.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\System.Numerics.Vectors.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\BaseDeDados.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\BaseDeDados.dll.config
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\MySql.Data.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\Google.Protobuf.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\Google.Protobuf.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\System.Memory.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\System.Buffers.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\bin\Debug\System.Numerics.Vectors.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\obj\Debug\InterfaceUsuario.exe.config
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pessoas.FrmCadUsuarios.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\obj\Debug\InterfaceUsuario.UserControls.ucSituacao.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pesquisas.FrmPesquisaGenerica.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\InterfaceUsuario.exe.config
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\InterfaceUsuario.exe
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\InterfaceUsuario.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\Entidades.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\Negocio.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\BaseDeDados.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\MySql.Data.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\Google.Protobuf.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\Zstandard.Net.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\Ubiety.Dns.Core.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\System.Memory.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\System.Buffers.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\System.Numerics.Vectors.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\Entidades.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\Negocio.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\BaseDeDados.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\BaseDeDados.dll.config
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\MySql.Data.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\Google.Protobuf.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\Google.Protobuf.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\System.Memory.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\System.Buffers.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\bin\Debug\System.Numerics.Vectors.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.AssemblyReference.cache
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.exe.config
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.Login.FrmLogin.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.MDIFrm.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pesquisas.FrmPesquisaGenericaCliente.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pesquisas.FrmPesquisaGenerica.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pessoas.FrmCadCliente.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pessoas.FrmCadUsuarios.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.Properties.Resources.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.UserControls.ucSituacao.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.GenerateResource.cache
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.CoreCompileInputs.cache
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.CopyComplete
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.exe
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula10\InterfaceUsuario\obj\Debug\InterfaceUsuario.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\InterfaceUsuario.exe.config
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\InterfaceUsuario.exe
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\InterfaceUsuario.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\Entidades.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\Negocio.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\BaseDeDados.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\MySql.Data.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\Google.Protobuf.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\Zstandard.Net.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\Ubiety.Dns.Core.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\System.Memory.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\System.Buffers.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\System.Numerics.Vectors.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\Entidades.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\Negocio.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\BaseDeDados.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\BaseDeDados.dll.config
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\MySql.Data.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\Google.Protobuf.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\Google.Protobuf.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\System.Memory.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\System.Buffers.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\bin\Debug\System.Numerics.Vectors.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.AssemblyReference.cache
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.exe.config
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.Login.FrmLogin.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.MDIFrm.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pesquisas.FrmPesquisaGenericaCliente.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pesquisas.FrmPesquisaGenerica.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pessoas.FrmCadCliente.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pessoas.FrmCadUsuarios.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.Properties.Resources.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.UserControls.ucSituacao.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.GenerateResource.cache
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.CoreCompileInputs.cache
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.CopyComplete
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.exe
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery.aula12\InterfaceUsuario\obj\Debug\InterfaceUsuario.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\InterfaceUsuario.exe.config
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\InterfaceUsuario.exe
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\InterfaceUsuario.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\Entidades.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\Negocio.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\BaseDeDados.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\MySql.Data.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\Google.Protobuf.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\Zstandard.Net.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\Ubiety.Dns.Core.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\System.Memory.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\System.Buffers.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\System.Numerics.Vectors.dll
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\Entidades.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\Negocio.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\BaseDeDados.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\BaseDeDados.dll.config
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\MySql.Data.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\Google.Protobuf.pdb
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\Google.Protobuf.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\System.Memory.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\System.Buffers.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\bin\Debug\System.Numerics.Vectors.xml
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.AssemblyReference.cache
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.exe.config
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.Login.FrmLogin.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.MDIFrm.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pesquisas.FrmPesquisaGenericaCliente.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pesquisas.FrmPesquisaGenerica.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pessoas.FrmCadCliente.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pessoas.FrmCadUsuarios.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.Produtos.FrmRotPedidos.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.Properties.Resources.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.UserControls.ucSituacao.resources
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.GenerateResource.cache
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.CoreCompileInputs.cache
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.CopyComplete
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.exe
+C:\Desenv\Projetos Senac\SenacPizzariaDelivery T8\SenacPizzariaDelivery.aula14\InterfaceUsuario\obj\Debug\InterfaceUsuario.pdb
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\InterfaceUsuario.exe.config
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\InterfaceUsuario.exe
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\InterfaceUsuario.pdb
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\Entidades.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\Negocio.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\BaseDeDados.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\Zstandard.Net.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\Entidades.pdb
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\Negocio.pdb
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\BaseDeDados.pdb
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\BaseDeDados.dll.config
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.exe.config
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.Login.FrmLogin.resources
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.MDIFrm.resources
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pesquisas.FrmPesquisaGenericaCliente.resources
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pesquisas.FrmPesquisaGenerica.resources
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pessoas.FrmCadCliente.resources
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.Pessoas.FrmCadUsuarios.resources
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.Produtos.FrmRotPedidos.resources
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.Properties.Resources.resources
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.UserControls.ucSituacao.resources
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.csproj.CopyComplete
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.exe
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.pdb
+C:\Users\Aluno\Documents\Aula Rafael\SenacPizzariaDelivery.aula15\InterfaceUsuario\obj\Debug\InterfaceUsuario.Produtos.FrmRotAdicionarPizza.resources
