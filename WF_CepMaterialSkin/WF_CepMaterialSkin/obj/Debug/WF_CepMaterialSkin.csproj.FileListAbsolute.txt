@@ -1,0 +1,13 @@
+C:\Users\Aluno\Desktop\WF_CepMaterialSkin\WF_CepMaterialSkin\bin\Debug\WF_CepMaterialSkin.exe.config
+C:\Users\Aluno\Desktop\WF_CepMaterialSkin\WF_CepMaterialSkin\bin\Debug\WF_CepMaterialSkin.exe
+C:\Users\Aluno\Desktop\WF_CepMaterialSkin\WF_CepMaterialSkin\bin\Debug\WF_CepMaterialSkin.pdb
+C:\Users\Aluno\Desktop\WF_CepMaterialSkin\WF_CepMaterialSkin\bin\Debug\MaterialSkin.dll
+C:\Users\Aluno\Desktop\WF_CepMaterialSkin\WF_CepMaterialSkin\obj\Debug\WF_CepMaterialSkin.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\WF_CepMaterialSkin\WF_CepMaterialSkin\obj\Debug\WF_CepMaterialSkin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\WF_CepMaterialSkin\WF_CepMaterialSkin\obj\Debug\WF_CepMaterialSkin.Form1.resources
+C:\Users\Aluno\Desktop\WF_CepMaterialSkin\WF_CepMaterialSkin\obj\Debug\WF_CepMaterialSkin.Properties.Resources.resources
+C:\Users\Aluno\Desktop\WF_CepMaterialSkin\WF_CepMaterialSkin\obj\Debug\WF_CepMaterialSkin.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\WF_CepMaterialSkin\WF_CepMaterialSkin\obj\Debug\WF_CepMaterialSkin.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\WF_CepMaterialSkin\WF_CepMaterialSkin\obj\Debug\WF_CepMaterialSkin.csproj.CopyComplete
+C:\Users\Aluno\Desktop\WF_CepMaterialSkin\WF_CepMaterialSkin\obj\Debug\WF_CepMaterialSkin.exe
+C:\Users\Aluno\Desktop\WF_CepMaterialSkin\WF_CepMaterialSkin\obj\Debug\WF_CepMaterialSkin.pdb
