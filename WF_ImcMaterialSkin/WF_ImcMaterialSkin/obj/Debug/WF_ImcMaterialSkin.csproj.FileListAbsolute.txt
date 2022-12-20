@@ -1,0 +1,26 @@
+C:\Modulo D\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.csproj.AssemblyReference.cache
+C:\Modulo D\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.csproj.SuggestedBindingRedirects.cache
+C:\Modulo D\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.Form1.resources
+C:\Modulo D\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.Properties.Resources.resources
+C:\Modulo D\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.csproj.GenerateResource.cache
+C:\Modulo D\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.csproj.CoreCompileInputs.cache
+C:\Modulo D\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\bin\Debug\WF_ImcMaterialSkin.exe.config
+C:\Modulo D\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\bin\Debug\WF_ImcMaterialSkin.exe
+C:\Modulo D\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\bin\Debug\WF_ImcMaterialSkin.pdb
+C:\Modulo D\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\bin\Debug\MaterialSkin.dll
+C:\Modulo D\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.csproj.CopyComplete
+C:\Modulo D\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.exe
+C:\Modulo D\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.pdb
+F:\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\bin\Debug\WF_ImcMaterialSkin.exe.config
+F:\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\bin\Debug\WF_ImcMaterialSkin.exe
+F:\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\bin\Debug\WF_ImcMaterialSkin.pdb
+F:\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\bin\Debug\MaterialSkin.dll
+F:\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.csproj.AssemblyReference.cache
+F:\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.csproj.SuggestedBindingRedirects.cache
+F:\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.Form1.resources
+F:\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.Properties.Resources.resources
+F:\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.csproj.GenerateResource.cache
+F:\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.csproj.CoreCompileInputs.cache
+F:\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.csproj.CopyComplete
+F:\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.exe
+F:\C#\WF_ImcMaterialSkin\WF_ImcMaterialSkin\obj\Debug\WF_ImcMaterialSkin.pdb
