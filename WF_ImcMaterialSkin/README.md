@@ -2,7 +2,7 @@
 
 ### Linguagens do projeto:
 
-* C#$
+* C#
 
 ### Pacote Instalado:
 
